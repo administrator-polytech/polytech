@@ -134,7 +134,7 @@ class _AppBarWidgetState extends State<AppBarWidget> {
                           ClipRRect(
                             borderRadius: BorderRadius.circular(0.0),
                             child: SvgPicture.network(
-                              'https://pub-1f043ea8dc214be99a73d5fe48b06d8b.r2.dev/Group%201597884247.svg',
+                              'https://mejrlywlcqoftabytwfv.supabase.co/storage/v1/object/public/main/logoWithName.svg',
                               width: 204.0,
                               height: 52.1,
                               fit: BoxFit.fill,
